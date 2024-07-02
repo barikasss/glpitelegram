@@ -291,3 +291,4 @@ This plugin is on Transifex - Help us to translate : https://www.transifex.com/p
 
     You should have received a copy of the GNU General Public License
     along with this program.  If not, see <http://www.gnu.org/licenses/>.
+# glpitelegram
